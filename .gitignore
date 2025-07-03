@@ -1,0 +1,5 @@
+project/cifar-100-python/
+project/cifar.tar.gz
+*.ipynb_checkpoints
+project/test
+project/train
